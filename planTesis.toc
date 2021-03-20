@@ -1,0 +1,25 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Antecedentes}{4}
+\contentsline {section}{\numberline {2}Problema de Investigaci\IeC {\'o}n}{4}
+\contentsline {section}{\numberline {3}Objetivos}{4}
+\contentsline {subsection}{\numberline {3.1}Objetivo General}{4}
+\contentsline {subsection}{\numberline {3.2}Objetivo Especifico}{4}
+\contentsline {section}{\numberline {4}Justificaci\IeC {\'o}n}{4}
+\contentsline {section}{\numberline {5}Hip\IeC {\'o}tesis}{4}
+\contentsline {section}{\numberline {6}Alcances y limitaciones}{5}
+\contentsline {subsection}{\numberline {6.1}Alcances}{5}
+\contentsline {subsection}{\numberline {6.2}Limitaciones}{5}
+\contentsline {section}{\numberline {7}Marco Te\IeC {\'o}rico}{5}
+\contentsline {subsection}{\numberline {7.1}sobre el tema uno}{5}
+\contentsline {subsection}{\numberline {7.2}sobre el tema dos}{5}
+\contentsline {subsubsection}{\numberline {7.2.1}algun tema mas}{5}
+\contentsline {subsection}{\numberline {7.3}sobre el tema tres}{5}
+\contentsline {subsection}{\numberline {7.4}sobre el tema cuatro}{6}
+\contentsline {section}{\numberline {8}M\IeC {\'e}todo de desarrollo}{6}
+\contentsline {section}{\numberline {9}Resultados}{6}
+\contentsline {section}{\numberline {10}Contribuciones}{6}
+\contentsline {section}{\numberline {11}Impacto Social}{6}
+\contentsline {section}{\numberline {12}Indice Tentativo de proyecto de Tesis}{6}
+\contentsline {section}{\numberline {13}Cronograma de actividades}{6}
+\contentsline {section}{\numberline {14}Presupuesto}{6}
+\contentsline {chapter}{Bibliograf\IeC {\'\i }a}{7}
